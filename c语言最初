@@ -1,0 +1,9 @@
+fn加f10 调试
+局部变量和全局变量不要相同 相同时局部优先
+char 1
+int 2
+long 4
+long long 8
+float 4
+double 8
+c语言语法规定，变量要定义在当前代码块的最前面
