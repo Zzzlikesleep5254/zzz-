@@ -7,3 +7,4 @@ long long 8
 float 4
 double 8
 c语言语法规定，变量要定义在当前代码块的最前面
+声明extern外面的符号
