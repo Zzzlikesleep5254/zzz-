@@ -1,0 +1,52 @@
+今天学了很多基础东西
+
+
+//#include <stdio.h>
+//int main()
+//{
+//	char arr1[] = "abc";//2
+//	char arr2[] = { 'a','b','c' };//15
+//	printf("%d\n", strlen(arr1));S
+//	printf("%d\n", strlen(arr2));
+//	return 0;
+//}
+//#include <stdio.h>
+//int main()
+//{
+//	char arr1[] = "abc";//abc
+//	char arr2[] = { 'a','b','c' };//abc烫烫烫烫蘟bc
+//	printf("%s\n",arr1);
+//	printf("%s\n",arr2);
+//	return 0;
+//}
+//#include <stdio.h>
+//#include <string.h>
+//
+//int main()
+//{
+//	printf("%d\n", strlen("c:\test\32\test.c"));
+////答案是13   
+//// /32是八进制的32所代表的十进制所代表的ASCII码所代表的字符
+//// /32即转换为/26 然后转换为/26所代表的ASCII码所代表的字符
+//// /t是平行制表符
+//	return 0;
+//}
+#include <stdio.h>
+
+int main()
+{
+	int arr[10] = { 1,2,3,4,5,6,7,8,9,10 };
+	int i= 0;
+	while (i < 10)
+	{
+		printf("%d\n",arr[i]);
+		i++;
+	}
+	return 0;
+}
+//f9断电 f10逐步过 ctrl+f5 调试
+//调试>窗口>监视窗口
+
+这是听课做的笔记 我准备晚点再进行一次复习。
+
+
